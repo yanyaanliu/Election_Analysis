@@ -20,7 +20,7 @@ In this module challenge, we are adding some code to our original script to find
 
 <br />
 
-# County Votes: 
+### County Votes: 
 
 * Jefferson received *38,855* votes which represents *10.5%* of total votes. 
 * Denver received *306,055* votes which represents *82.8%* of total votes.
@@ -29,7 +29,7 @@ In this module challenge, we are adding some code to our original script to find
 
 * The county with the largest number of votes was Denver.
 
-# Candidate Votes
+### Candidate Votes
 * Charles Casper Stockham received *85,213* votes which represents *23%* of total votes. 
 * Diana DeGette received *272,892* votes which represents *73.8%* of total votes.
 * Raymon Anthony Doane received *11,606* votes which represents *3.1%* of total votes. 
