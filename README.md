@@ -8,18 +8,12 @@ In this module challenge, we are adding some code to our original script to find
 
 ## Election-Audit Results
 
-
 ![code1](/images/code1.png)
 
 ![code2](/images/code2.png)
 
-
-<br />
-
 * The total number of votes cast in this congressional election was 369,711;
-
 <br />
-
 ### County Votes: 
 
 * Jefferson received *38,855* votes which represents *10.5%* of total votes. 
