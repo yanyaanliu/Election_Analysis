@@ -14,7 +14,8 @@ In this module challenge, we are adding some code to our original script to find
 
 * The total number of votes cast in this congressional election was 369,711;
 <br />
-### County Votes: 
+
+### County Votes
 
 * Jefferson received *38,855* votes which represents *10.5%* of total votes. 
 * Denver received *306,055* votes which represents *82.8%* of total votes.
