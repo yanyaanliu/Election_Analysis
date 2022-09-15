@@ -11,7 +11,9 @@ In this module challenge, we are adding some code to our original script to find
 ![results](/Resources/image.png)
 
 <br />
-* The total number of votes cast in this congressional election was 369,711;
+
+* The total number of votes cast in this congressional election was 369,711
+
 <br />
 
 ### County Votes
