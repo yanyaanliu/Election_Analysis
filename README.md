@@ -8,10 +8,9 @@ In this module challenge, we are adding some code to our original script to find
 
 ## Election-Audit Results
 
-![code1](/images/code1.png)
+![results](/Resources/image.png)
 
-![code2](/images/code2.png)
-
+<br />
 * The total number of votes cast in this congressional election was 369,711;
 <br />
 
